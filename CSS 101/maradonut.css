@@ -1,0 +1,29 @@
+    h1 {
+        text-transform: uppercase;
+        text-align: center;
+        }
+    #leaf {
+            width: 200px;
+            height: 200px;
+            border: 2px solid black;
+            background-image: url("maradona.jpg");
+            background-position: center center;
+            background-size: cover;
+            border-radius: 0 50% 0 50%;
+            box-shadow: 6px 6px 15px  #444444;
+            margin: auto;
+           }
+    body{
+        background-image: url("maradona.jpg");
+        }
+    #box {
+            display:box;
+            width: 200px;
+            height: 200px;
+            margin: auto;
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 25px;
+            opacity: 0.3;
+          }
